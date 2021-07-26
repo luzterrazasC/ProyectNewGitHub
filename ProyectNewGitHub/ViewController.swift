@@ -9,6 +9,9 @@
 import UIKit
 
 ///Hellloooo
+
+var altura: Int = 1
+var ancho : Int = 2
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
