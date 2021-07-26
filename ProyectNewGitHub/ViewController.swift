@@ -9,6 +9,9 @@
 import UIKit
 
 ///Hellloooo
+
+var x: Int = 1
+var y : Int = 2
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
