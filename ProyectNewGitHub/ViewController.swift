@@ -8,7 +8,6 @@
 
 import UIKit
 
-///Hellloooo
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
